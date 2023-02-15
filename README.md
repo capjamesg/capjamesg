@@ -9,6 +9,7 @@ I am a technical marketer at @Roboflow, where I work to make computer vision mor
 - IndieWeb
 - Decentralized social networking
 - Coffee
+- Collecting GitHub badges
 
 ## 📫 How to reach me ...
 
