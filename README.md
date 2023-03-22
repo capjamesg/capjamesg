@@ -1,6 +1,6 @@
 # 👋 Hi, I’m James (@capjamesg)
 
-I am a technical marketer at @Roboflow, where I work to make computer vision more approachable and demonstrate the ways in which computer vision can solve different problems.
+I am a technical marketer at [Roboflow](https://roboflow.com), where I work to make computer vision more approachable and demonstrate the ways in which computer vision can solve different problems.
 
 ## 👀 I’m interested in ...
 
