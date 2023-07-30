@@ -5,8 +5,8 @@ I am a technical marketer at [Roboflow](https://roboflow.com), where I work to m
 ## 👀 I’m interested in ...
 
 - Computer vision
-- NLP
-- IndieWeb
+- The web and IndieWeb
+- NLP and quantiative linguistics
 - Decentralized social networking
 - Coffee
 
