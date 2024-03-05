@@ -17,3 +17,5 @@ I am a co-chair on the [W3C Social Web Incubator Community Group](https://www.w3
 ## 📫 How to reach me ...
 
 Via email at [readers@jamesg.blog](mailto:readers@jamesg.blog).
+
+[![committers.top badge](https://user-badge.committers.top/uk_private/capjamesg.svg)](https://user-badge.committers.top/uk_private/capjamesg) (UK)
