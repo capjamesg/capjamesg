@@ -20,4 +20,4 @@ I am building a programming language for analyzing knowledge graphs called [Know
 
 Via email at [readers@jamesg.blog](mailto:readers@jamesg.blog).
 
-[![committers.top badge](https://user-badge.committers.top/uk_private/capjamesg.svg)](https://user-badge.committers.top/uk_private/capjamesg) (UK)
+[![committers.top badge](https://user-badge.committers.top/uk_public/capjamesg.svg)](https://user-badge.committers.top/uk_public/capjamesg) (UK)
