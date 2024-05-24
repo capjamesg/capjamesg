@@ -12,8 +12,7 @@ I am building a programming language for analyzing knowledge graphs called [Know
 
 - Computer vision
 - The web and IndieWeb
-- NLP and quantiative linguistics
-- Decentralized social networking
+- Computational linguistics
 - Coffee
 
 ## 📫 How to reach me ...
