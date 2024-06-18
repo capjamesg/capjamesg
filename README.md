@@ -8,6 +8,8 @@ I authored a book on technical writing: [Software Technical Writing: A Guidebook
 
 I am building a programming language for analyzing knowledge graphs called [Knowledge Graph Language (KGL)](https://github.com/capjamesg/knowledge-graph-language) and another for computer vision called [VisionScript](https://github.com/capjamesg/visionscript). I maintain [Autodistill](https://github.com/roboflow/autodistill). I contribute to [supervision](https://github.com/roboflow/supervision), [notebooks](https://github.com/roboflow/notebooks), and other open source computer vision projects.
 
+My personal website is made with [Aurora](https://github.com/capjamesg/aurora).
+
 ## 👀 I’m interested in ...
 
 - Computer vision
