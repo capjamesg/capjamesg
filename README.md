@@ -12,8 +12,8 @@ My personal website is made with [Aurora](https://github.com/capjamesg/aurora). 
 
 ## 👀 I’m interested in ...
 
-- Computer vision
 - The web and IndieWeb
+- Writing
 - Computational linguistics
 - Coffee
 
