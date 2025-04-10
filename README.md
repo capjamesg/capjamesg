@@ -14,13 +14,10 @@ My personal website is made with [Aurora](https://github.com/capjamesg/aurora). 
 
 ## 👀 I’m interested in ...
 
-- The web and IndieWeb
+- The web and #IndieWeb
 - Writing
-- Computational linguistics
 - Coffee
 
 ## 📫 How to reach me ...
 
 Via email at [readers@jamesg.blog](mailto:readers@jamesg.blog).
-
-[![committers.top badge](https://user-badge.committers.top/uk_public/capjamesg.svg)](https://user-badge.committers.top/uk_public/capjamesg) (UK)
